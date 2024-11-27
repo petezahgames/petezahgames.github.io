@@ -1,3 +1,4 @@
+
 const urlParams = new URLSearchParams(window.location.search);
         const embedUrl = urlParams.get('embedUrl');
 
