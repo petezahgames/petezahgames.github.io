@@ -1,3 +1,4 @@
+
 function submitSearch(event) {
     event.preventDefault(); 
     const query = document.getElementById('uv-address').value.trim();
